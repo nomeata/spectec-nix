@@ -19,6 +19,9 @@
             ocamlPackages.mdx
             ocamlPackages.merlin
             ocamlPackages.zarith
+            ocamlPackages.lsp
+            ocamlPackages.ocaml-lsp
+            ocamlformat
             rocq-core
             coq
             coqPackages.stdlib
