@@ -15,8 +15,10 @@
             dune_3
             ocamlPackages.ocaml
             ocamlPackages.menhir
+            ocamlPackages.menhirLib
             ocamlPackages.mdx
             ocamlPackages.merlin
+            ocamlPackages.zarith
             elan
           ];
         };
