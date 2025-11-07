@@ -19,6 +19,9 @@
             ocamlPackages.mdx
             ocamlPackages.merlin
             ocamlPackages.zarith
+            rocq-core
+            coq
+            coqPackages.stdlib
             elan
           ];
         };
